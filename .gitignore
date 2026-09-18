@@ -1,0 +1,33 @@
+# Prerequisites
+*.dSYM/
+*.out
+*.o
+*.exe
+*.obj
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor settings
+.vscode/
+.idea/
+*.swp
+*~
+
+# Compiled binaries
+character_count
+character_stuffing
+bit_stuffing
+crc12
+crc16
+crc_ccitt
+sliding_window
+go_back_n
+dijkstra
+broadcast_tree
+distance_vector
+data_encryption_decryption
+leaky_bucket
+frame_sorting
