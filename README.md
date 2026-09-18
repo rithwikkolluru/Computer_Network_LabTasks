@@ -48,3 +48,7 @@ Compile any program using standard GCC or Clang:
 gcc -o program_name program_name.c
 ./program_name
 ```
+
+## Note
+These programs are written in standard C for academic and practical laboratory study.
+
