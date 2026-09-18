@@ -7,7 +7,7 @@ int main() {
     printf("Enter Data: ");
     scanf("%s", data);
 
-    printf("Framed Data: %lu%s\n", strlen(data), data);
+    printf("Framed Data: %d%s\n", (int)strlen(data), data);
 
     return 0;
 }
